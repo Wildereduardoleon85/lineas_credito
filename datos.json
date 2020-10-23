@@ -1,0 +1,183 @@
+[
+    {
+        "rut": "11111111-1",
+        "nombres": "Adolfo Ernesto", 
+        "apellidos": "Romero Sanchez",
+        "productos":[
+                {
+                "nombre": "Platco",
+                "linea_aprobada": "50 M",
+                "linea_disponible": "10 M"
+               },
+               {
+                "nombre": "Platinum",
+                "linea_aprobada": "30 M",
+                "linea_disponible": "5 M"
+               },
+               {
+                "nombre": "Spot USD",
+                "linea_aprobada": "5 M",
+                "linea_disponible": "5 M"
+               }
+        ]
+            
+    },
+    {
+        "rut": "11111111-2",
+        "nombres": "Gabriel Adolfo", 
+        "apellidos": "Chacin Gomez",
+        "productos":[
+            {
+            "nombre": "Platco",
+            "linea_aprobada": "5 M",
+            "linea_disponible": "0 M"
+           },
+           {
+            "nombre": "Platinum",
+            "linea_aprobada": "10 M",
+            "linea_disponible": "5 M"
+           }
+        ]
+        
+    },
+    {
+        "rut": "11111111-3",
+        "nombres": "Antonio Jesus", 
+        "apellidos": "Duarte Alvarez",
+        "productos":[
+            {
+            "nombre": "Spot USD",
+            "linea_aprobada": "2 M",
+            "linea_disponible": "1 M"
+           },
+           {
+            "nombre": "Platinum",
+            "linea_aprobada": "5 M",
+            "linea_disponible": "5 M"
+           },
+           {
+            "nombre": "Platco",
+            "linea_aprobada": "3 M",
+            "linea_disponible": "0 M"
+           },
+           {
+            "nombre": "Super Ahorro",
+            "linea_aprobada": "1 M",
+            "linea_disponible": "1 M"
+           }
+        ]
+    },
+    {
+        "rut": "11111111-4",
+        "nombres": "Mario José", 
+        "apellidos": "Ramírez Montero",
+        "productos":[
+            {
+            "nombre": "Spot USD",
+            "linea_aprobada": "1 M",
+            "linea_disponible": "1 M"
+           },
+           {
+            "nombre": "Platinum",
+            "linea_aprobada": "10 M",
+            "linea_disponible": "5 M"
+           }
+        ]
+    },
+    {
+        "rut": "11111111-5",
+        "nombres": "Jeús Antonio", 
+        "apellidos": "Juárez Ramírez",
+        "productos":[
+            {
+            "nombre": "Spot USD",
+            "linea_aprobada": "6 M",
+            "linea_disponible": "2 M"
+           },
+           {
+            "nombre": "Super Ahorro",
+            "linea_aprobada": "2 M",
+            "linea_disponible": "1 M"
+           }
+        ]
+    },
+    {
+        "rut": "11111111-6",
+        "nombres": "Juan Alberto", 
+        "apellidos": "Hidalgo Henríquez",
+        "productos":[
+            {
+            "nombre": "Spot USD",
+            "linea_aprobada": "7 M",
+            "linea_disponible": "1 M"
+           },
+           {
+            "nombre": "Platco",
+            "linea_aprobada": "2 M",
+            "linea_disponible": "0 M"
+           },
+           {
+            "nombre": "Super Ahorro",
+            "linea_aprobada": "10 M",
+            "linea_disponible": "5 M"
+           }
+        ]
+    },
+    {
+        "rut": "11111111-7",
+        "nombres": "Bertha Antonieta", 
+        "apellidos": "Alvarado",
+        "productos":[
+           {
+            "nombre": "Super Ahorro",
+            "linea_aprobada": "5 M",
+            "linea_disponible": "2 M"
+           }
+        ]
+    },
+    {
+        "rut": "11111111-8",
+        "nombres": "María Carolina", 
+        "apellidos": "Gómez Iriarte",
+        "productos":[
+            {
+            "nombre": "Spot USD",
+            "linea_aprobada": "10 M",
+            "linea_disponible": "5 M"
+           },
+           {
+            "nombre": "Platinum",
+            "linea_aprobada": "2 M",
+            "linea_disponible": "0 M"
+           },
+           {
+            "nombre": "Platco",
+            "linea_aprobada": "3 M",
+            "linea_disponible": "3 M"
+           },
+           {
+            "nombre": "Super Ahorro",
+            "linea_aprobada": "4 M",
+            "linea_disponible": "3 M"
+           }
+        ]
+    },
+    {
+        "rut": "11111111-9",
+        "nombres": "Patricia Roberta", 
+        "apellidos": "Madriz González",
+        "productos":[
+            {
+            "nombre": "Spot USD",
+            "linea_aprobada": "2 M",
+            "linea_disponible": "1 M"
+           },
+           {
+            "nombre": "Platinum",
+            "linea_aprobada": "5 M",
+            "linea_disponible": "5 M"
+           }
+        ]
+    }
+
+]

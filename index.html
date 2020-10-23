@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/809c8bd336.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="estilos2.css">
+    <title>Líneas de Crédito</title>
+</head>
+<body>
+    <header>
+        <h1>Líneas de Crédito</h1>
+            <div class="contenedor">
+                <form class="formulario" id="formulario">
+                    <div class="divInput">
+                        <input required type="text" placeholder="Ingrese Rut" id="busqueda_rut">
+                    </div>
+                    <div class="divButton">
+                        <button type="submit"><i class="fas fa-search"></i></button>
+                    </div>
+                </form>
+            </div>
+    </header>
+
+    <section class="main">
+
+        <div class="container">
+            <h4 id="mensaje" class="hidden">
+                <i class="fas fa-exclamation-triangle mensaje"></i> El Rut Ingresado no es válido!!
+            </h4>
+            <h3>Nombres: </h3>
+            <p id="datos_cliente"></p>
+        </div>
+
+        <form id="formulario">
+            <div class="table">
+                <table id="tabla" cellspacing="0">
+                    
+                    <tr id="tabla1">
+                        <th class="col-1">Producto</th>
+                        <th class="col-2">Línea Aprobada</th>
+                        <th class="col-3">Línea Disponible</th>
+                        <th class="col-4">Nuevo Uso</th>
+                    </tr>
+
+                    <tr id="tabla2">
+                        <td class="col-1"></td>
+                        <td class="col-2"></td>
+                        <td class="col-3"></td>
+                        <td class="col-4"><button>Enviar</button></td>
+                    </tr>
+                    
+                </table>
+            </div> 
+        </form>
+    </section>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
